@@ -1,4 +1,4 @@
-# [Pedro Jorge]
+# Pedro Jorge
 
 Desenvolvedor de Software · Maceió, Brasil 🇧🇷  
 Sistemas de Informação @ Cesmac · Foco em IA aplicada a negócios e produtos SaaS
